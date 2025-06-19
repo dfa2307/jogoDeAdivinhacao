@@ -1,4 +1,4 @@
-alert(`Boas vindas! Esse é um jogo de advinhação.
+alert(`Boas vindas! Esse é um jogo de adivinhação.
     -Esse jogo pode ser jogado por 1 player ou 2 players.`)
 let quantidadePlayers = prompt(`Digite a quantidade de players: `)
 // let numSecreto = parseInt(Math.random() * 100 + 1)
